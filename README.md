@@ -41,7 +41,7 @@ Animating and <a href="https://www.developers.android.com" target="_blank" rel="
 
 
 <h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abhinandan080&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinandan080k&show_icons=true&locale=en&layout=compact&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="Abhinandan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinandan080&show_icons=true&locale=en&layout=compact&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="Abhinandan" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinandan080&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="Abhinandan" />
 </p>
 
