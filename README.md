@@ -17,7 +17,8 @@ Hello!, Bonjour, こんにちは！, नमस्कार!, ਸਤਿ ਸ਼੍ਰ
 
 ## About me. 
 I am Abhinandan . 
-BTS Just ****
+Earlier, I was Just ****
+But now :piola:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhinandan080&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan" /> </p>
 
 ## What tools I use ?. 
