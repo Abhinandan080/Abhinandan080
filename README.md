@@ -34,7 +34,7 @@ But now :piola:
 ## 👀 I am interested in . . . . ..  .  ?. 
 Animating and <a href="https://www.developers.android.com" target="_blank" rel="noopener noreferrer">Android apps dvelopment</a> for android 3 and up. 
 
-## 🌱 Fine Coding in JAVA, JS, C, CSS, PYTHON, RUBY, TYPESCRIPT. 
+## 🌱 Fine Coding in JAVA, JS, C, CSS, PYTHON, RUBY, TYPESCRIPT, HTML & CSS. 
 
 -## - 💞️ I’m looking to collaborate on ** No one ** . 
 
