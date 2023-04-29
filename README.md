@@ -5,7 +5,7 @@
 - 📫 How to reach me ...: <a href="abhinandansingh080@gmail.com" target="_blank" rel="noopener noreferrer">through my email. </a>
 
 
-<a href="https://https://ionicabizau.github.io/github-profile-languages/api.html?Abhinandan080" </a>
+<a href="https://ionicabizau.github.io/github-profile-languages/api.html?Abhinandan080" </a>
 
 <!---
 Abhinandan080/Abhinandan080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
