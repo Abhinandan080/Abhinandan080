@@ -1,4 +1,4 @@
-- 👋 Hello, I’m <a href="https://www.github.com/Abhinandan080" target="_blank" rel="noopener noreferrer">Abhinandan</a> ! . 
+## 👋 Hello, I’m <a href="https://www.github.com/Abhinandan080" target="_blank" rel="noopener noreferrer"><bold>Abhinandan</bold></a> ! .
 - 👀 I’m <a href="https://www.developers.android.com" target="_blank" rel="noopener noreferrer">Android Dev</a> for android 3 and up. 
 - 🌱 Quite Expertise in certain languages like JAVA, JS, C, CSS, PYTHON, RUBY, TYPESCRIPT, HTML & CSS etc..  
 - 💞️ I’m looking to collaborate on ** No one **
