@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ** No one **
 - 📫 How to reach me ...: <a href="abhinandansingh080@gmail.com" target="_blank" rel="noopener noreferrer">through my email. </a>
 
-<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Abhinandan080" frameborder="0"></iframe></p>
+<p align="right"> <img src="https://ionicabizau.github.io/github-profile-languages/api.html?Abhinandan080" alt="Abhinandan" /></p>
 
 <!---
 Abhinandan080/Abhinandan080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
