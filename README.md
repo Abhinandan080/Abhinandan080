@@ -1,4 +1,4 @@
-## 👋 Hello, I’m <a href="https://www.github.com/Abhinandan080" target="_blank" rel="noopener noreferrer"><bold>Abhinandan</bold></a>! - मैं अभिनंदन हूँ 
+## 👋 Hello, I’m <a href="https://www.github.com/Abhinandan080" target="_blank" rel="noopener noreferrer"><bold>Abhinandan</bold></a>!
 - 👀 I’m <a href="https://www.developers.android.com" target="_blank" rel="noopener noreferrer">Android Dev</a> for android 3 and up. 
 - 🌱 Quite Expertise in certain languages like JAVA, JS, C, CSS, PYTHON, RUBY, TYPESCRIPT, HTML & CSS etc..  
 - 💞️ I’m looking to collaborate on ** No one **
@@ -12,37 +12,33 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinandan080&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 👋 Greetings Hello!, Bonjour, こんにちは！, नमस्कार!, ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ!, 안녕하세요, 君安!, 你好！, 你好！, ¡Hola!, Allô!, ہیلو!, Hallo!, Olá!,
-
-## About me | मेरे बारे में 
-I am Abhinandan, an Indian and of-course a Human. |  मैं अभिनंदन हूं, एक भारतीय और निश्चित रूप से एक इंसान हूं। 
+## About me |
+I am Abhinandan, a software developer who does well in computer languages.    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhinandan080&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinandan" /> </p>
 
-## What tools I use ?.                            |       ## मैं किस उपकरण का उपयोग करता हूं?.                
-* Android studio                                  |        एंड्रॉयड स्टूडियो
-* Sketchware                                      |      स्केचवेयर
-* Sk pro                                          |        सेटवेयर प्रो
-* Apk editor pro and free.                        |        एपीके संपादक प्रो और नि: शुल्क.
-* Sketchware original pro version.                |       स्केचवेयर प्रो
-* Blender (earlier)                               |        ब्लेंडर (पहले)
-* Adobe animate                                   |        एडोब एनिमेट
-* Arduino                                         |        आर्डिनो                                              
-* Visual Studio                                   |        विज़ुअल स्टूडियो
-* Microbit                                        |        माइक्रोबिट 
-* Iskit                                           |        इस्किट
-* T-Launcher                                      |        टी-लॉन्चर
-* App-Info                                        |        अप्लिकेशन इंफ्रैमेशन
-* AND MUCH more.                                  |        और बहुत सारे |
+## What tools I use ?.                                
+* Google Android studio                                 
+* Sketchware                                     
+* Sk pro                                         
+* Apk editor pro.     
+* Sketchware Vanced              
+* Blender (earlier)       
+* Adobe animate     
+* Arduino              
+* Microsoft Visual Studio               
+* Microbit                                 
+* Iskit                                       
+* App-Info                                   
+* AND MUCH more. 
 
 
-## 👀 I am interested in . . . . ..  .  ?. | मैं कर सकता हूँ :........|
-Animating and <a href="https://www.developers.android.com" target="_blank" rel="noopener noreferrer">Android apps dvelopment</a> for android 3 and up. 
+## 👀 I am interested in . . . . ..  .  ?
+Animating and <a href="https://www.developers.android.com" target="_blank" rel="noopener noreferrer">Android development kits</a> for android 3 and up. 
 
-## 🌱 Fine Coding in JAVA, JS, C, CSS, PYTHON, RUBY, TYPESCRIPT, HTML & CSS. | 
-## जावा, जावासक्रिप्ट, सी, सीएसएस, पायथन, रूबी, टाइपस्क्रिप्ट, एचटीएमएल और सीएसएस में। 
+## 🌱 How can I help you?
+For now, can help you design a webpage for $5 and a whole android kit for $15. 
 
--## - 💞️ I’m looking to collaborate on ** No one ** . 
+-## - 💞️ I’m looking to collaborate on ** Certainly No one ** . 
 
 ## How to reach me ?. 
 - 📫 How to reach me ...: <a href="abhinandansingh080@gmail.com" target="_blank" rel="noopener noreferrer">through my email. </a>
